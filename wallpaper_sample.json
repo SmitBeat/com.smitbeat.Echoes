@@ -102,7 +102,13 @@
 				"author": "Taken from github",
 				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
-				"name": "Wallpaper 17"	
+				"name": "Wallpaper 17"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
+				"name": "Wallpaper 18"		
 			}
 		]
 }
