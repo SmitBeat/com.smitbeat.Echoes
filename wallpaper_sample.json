@@ -108,7 +108,19 @@
 				"author": "Taken from github",
 				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
 				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
-				"name": "Wallpaper 18"		
+				"name": "Wallpaper 18"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
+				"name": "Wallpaper 19"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
+				"name": "Wallpaper 20"			
 			}
 		]
 }
