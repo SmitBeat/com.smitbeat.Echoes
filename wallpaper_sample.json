@@ -1,180 +1,582 @@
-{
-	"Wallpapers":
-        [
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/01.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/01.Wallpaper.png",
-				"name": "Wallpaper 1"
-
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/02.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/02.Wallpaper.png",
-				"name": "Wallpaper 2"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/03.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/03.Wallpaper.png",
-				"name": "Wallpaper 3"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/04.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/04.Wallpaper.png",
-				"name": "Wallpaper 4"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/05.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/05.Wallpaper.png",
-				"name": "Wallpaper 5"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/06.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/06.Wallpaper.jpg",
-				"name": "Wallpaper 6"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/07.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/07.Wallpaper.jpg",
-				"name": "Wallpaper 7"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/08.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/08.Wallpaper.jpg",
-				"name": "Wallpaper 8"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/09.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/09.Wallpaper.jpg",
-				"name": "Wallpaper 9"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/10.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/10.Wallpaper.jpg",
-				"name": "Wallpaper 10"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/11.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/11.Wallpaper.jpg",
-				"name": "Wallpaper 11"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/12.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/12.Wallpaper.jpg",
-				"name": "Wallpaper 12"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/13.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/13.Wallpaper.jpg",
-				"name": "Wallpaper 13"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/14.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/14.Wallpaper.jpg",
-				"name": "Wallpaper 14"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/15.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/15.Wallpaper.jpg",
-				"name": "Wallpaper 15"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/16.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/16.Wallpaper.jpg",
-				"name": "Wallpaper 16"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
-				"name": "Wallpaper 17"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
-				"name": "Wallpaper 18"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
-				"name": "Wallpaper 19"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
-				"name": "Wallpaper 20"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/21.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/21.Wallpaper.jpg",
-				"name": "Wallpaper 21"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/22.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/22.Wallpaper.jpg",
-				"name": "Wallpaper 22"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/23.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/23.Wallpaper.jpg",
-				"name": "Wallpaper 23"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/24.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/24.Wallpaper.jpg",
-				"name": "Wallpaper 24"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/25.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/25.Wallpaper.jpg",
-				"name": "Wallpaper 25"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/26.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/26.Wallpaper.jpg",
-				"name": "Wallpaper 26"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/27.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/27.Wallpaper.png",
-				"name": "Wallpaper 27"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/28.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/28.Wallpaper.jpg",
-				"name": "Wallpaper 28"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/29.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/29.Wallpaper.jpg",
-				"name": "Wallpaper 29"						
-			}
-		]
-}
+[
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/01.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/01.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/01.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/01.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/02.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/02.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/02.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/02.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/03.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/03.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/03.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/03.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/04.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/04.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/04.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/04.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/05.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/05.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/05.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/05.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/06.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/06.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/06.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/06.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/07.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/07.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/07.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/07.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/08.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/08.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/08.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/08.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/09.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/09.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/09.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/09.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/10.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/10.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/10.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/10.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/11.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/11.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/11.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/11.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/12.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/12.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/12.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/12.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/13.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/13.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/13.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/13.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/14.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/14.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/14.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/14.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/15.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/15.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/15.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/15.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/16.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/16.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/16.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/16.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/17.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/18.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/19.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/20.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/21.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/21.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/21.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/21.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/22.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/22.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/22.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/22.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/23.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/23.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/23.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/23.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/24.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/24.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/24.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/24.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/25.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/25.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/25.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/25.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/26.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/26.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/26.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/26.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/27.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/27.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/27.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/27.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/28.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/28.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/28.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/28.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/29.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/29.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Timeloop",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/29.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Echoes/master/29.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"							
+	}
+]
